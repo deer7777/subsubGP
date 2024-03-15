@@ -1,5 +1,5 @@
 package subsubGP
 
 func Print() string {
-	return "subsubGP v2.0.0"
+	return "subsubGP v3.0.0"
 }
